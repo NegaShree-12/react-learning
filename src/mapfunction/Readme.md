@@ -1,0 +1,1 @@
+map always returns an array even if one element or zero element.
